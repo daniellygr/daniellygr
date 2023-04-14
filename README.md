@@ -5,7 +5,7 @@
 
 ### About me
 
-- I'm Food Engineer graduated from USP. 
+- I'm a Food Engineer graduated from USP. 
 - I’m currently studying Systems Analysis and Development at <a href="http://fatecsorocaba.edu.br/">FATEC</a> and learning <b>SQL</b>, <b>C#</b>, <b>C</b> and <b>Java</b>. 
 
 <div>
