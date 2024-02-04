@@ -12,6 +12,4 @@
  <a href="https://github.com/daniellygr">
  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellygr&layout=compact&langs_count=7&theme=" />
  
-![Snake animation](https://github.com/daniellygr/daniellygr/blob/output/github-contribution-grid-snake.svg)
-  
 
