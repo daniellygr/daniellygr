@@ -1,7 +1,6 @@
 ## Hey there! I'm Danielly 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-daniellyrocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellyrocha/)](https://www.linkedin.com/in/daniellyrocha/)
-[![Gmail Badge](https://img.shields.io/badge/-daniellyrochag-red?style=flat&logo=Gmail&logoColor=white&link=mailto:daniellyrochag@gmail.com)](mailto:daniellyrochag@gmail.com)
 
 ### About me
 
